@@ -1,12 +1,5 @@
 # PHP Dev Container
 
-## Run tests
-
-```bash
-$ composer install
-$ ./vendor/bin/pest 
-```
-
 ## Write a script that outputs the numbers from 1 to 15.
 
 - If the number is a multiple of 3, you need to print "Par" instead of that number.
